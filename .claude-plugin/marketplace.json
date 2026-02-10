@@ -1,0 +1,35 @@
+{
+  "name": "falcon-plugins",
+  "owner": {
+    "name": "falcon",
+    "email": "falcon694@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "best-practices",
+      "source": {
+        "source": "github",
+        "repo": "kae-builds/best-practices"
+      },
+      "description": "ソフトウェア開発ライフサイクル全体をカバーするベストプラクティス",
+      "version": "2.1.0",
+      "author": {
+        "name": "falcon"
+      },
+      "license": "MIT"
+    },
+    {
+      "name": "notion-tools",
+      "source": {
+        "source": "github",
+        "repo": "kae-builds/notion-tools"
+      },
+      "description": "Notion API直接連携 - ページ取得・検索・コメント・プロパティ操作",
+      "version": "1.0.0",
+      "author": {
+        "name": "falcon"
+      },
+      "license": "MIT"
+    }
+  ]
+}
