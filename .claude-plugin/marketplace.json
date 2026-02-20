@@ -30,6 +30,19 @@
         "name": "falcon"
       },
       "license": "MIT"
+    },
+    {
+      "name": "tmux-ai-manager",
+      "source": {
+        "source": "github",
+        "repo": "kae-builds/tmux-ai-manager"
+      },
+      "description": "tmuxで動作するAIエージェントの管理・オーケストレーション - タスクキュー・Claude判断型ディスパッチ・完了監視",
+      "version": "2.0.0",
+      "author": {
+        "name": "falcon"
+      },
+      "license": "MIT"
     }
   ]
 }
