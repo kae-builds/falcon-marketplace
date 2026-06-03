@@ -43,6 +43,19 @@
         "name": "falcon"
       },
       "license": "MIT"
+    },
+    {
+      "name": "agent-view-flow",
+      "source": {
+        "source": "github",
+        "repo": "kae-builds/agent-view-flow"
+      },
+      "description": "agent view（bgセッション）の認知負荷を下げる: 自律化・結果集約(digest)・命名/状態規約・安全ガード・/bg-task起動コマンド",
+      "version": "0.1.0",
+      "author": {
+        "name": "falcon"
+      },
+      "license": "MIT"
     }
   ]
 }
